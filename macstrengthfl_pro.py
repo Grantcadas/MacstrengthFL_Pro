@@ -6,7 +6,7 @@ import os
 import tempfile
 import numpy as np
 import pandas as pd
-import mediapipe as mp
+import mediapipe_lite as mp
 from PIL import Image
 from datetime import datetime
 import matplotlib.pyplot as plt
